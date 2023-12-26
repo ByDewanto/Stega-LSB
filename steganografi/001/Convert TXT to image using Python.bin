@@ -1,0 +1,9 @@
+Convert TXT to image using Python
+Need to convert a TXT document to an image format programmatically? With Aspose.Words for Python via .NET any developer can convert TXT documents to images with just a few lines of Python code.
+
+Modern document-processing Python API creates images from TXT documents with high speed. Test the quality of TXT to image conversion right in your browser. Powerful Python library allows converting TXT files to many popular formats.
+
+Save TXT as images in Python
+The following example demonstrates how to convert a TXT document to a set of images in Python.
+
+Follow the easy steps to turn a TXT document into image format. Read your TXT file from the local drive, then simply save it in image format, specifying the required file format by image extension. For both TXT reading and image writing you can use fully qualified filenames. The output image content and formatting will be identical to the original TXT document.
