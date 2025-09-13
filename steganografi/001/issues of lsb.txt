@@ -1,7 +1,0 @@
-issues of lsb
-    quantity
-    quality
-
-pendekatan kompresi
-
-rgb
